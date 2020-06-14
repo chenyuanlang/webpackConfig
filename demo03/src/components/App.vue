@@ -8,7 +8,7 @@
 <script>
 export default {
   created() {
-      console.log('呵呵，好玩');
+      console.log('呵呵，我改动代码了');
   },
 };
 </script>
